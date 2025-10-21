@@ -1,2 +1,129 @@
 # MaMeeFarm-Concepts
 Conceptual archive of MaMeeFarm Proof-of-Work Data System™
+<div align="center">
+
+# 🌾 MaMeeFarm-Concepts  
+### *Philosophy, Proof & System Design of Real-Work Data™*
+
+**Project Family:** [MaMeeFarm Proof-of-Work Data System (MMFARM-POL-2025)](https://github.com/MaMeeFarm-Data)  
+**Maintained by:** P'Toh & MaMee  
+**Location:** Lampang, Thailand  
+**License:** [MMFARM-POL-2025 + CC BY-NC 4.0](./LICENSE.md)
+
+---
+
+> “Real work is the source of truth.”  
+> — *MaMeeFarm Philosophy*
+
+</div>
+
+---
+
+## 🧭 Overview
+
+**MaMeeFarm-Concepts** is the **conceptual and philosophical layer**  
+of the MaMeeFarm Proof-of-Work Data System™ (MMFARM-POL-2025).  
+This repository records the **ideas, models, and system logic**  
+that transform real-world agricultural work into verifiable digital data.
+
+In the MaMeeFarm ecosystem:  
+> - **TikTok** represents the *Proof of Existence (real work)*  
+> - **NFTs** represent the *Proof of Ownership (digital assets)*  
+> - **GitHub** represents the *Proof of Concept (knowledge & system layer)*  
+
+Together, they form the first **Real-Work Data Architecture**  
+connecting human labor, blockchain proof, and open research.
+
+---
+
+## 🧩 Repository Structure
+
+| Folder | Description |
+|--------|--------------|
+| [`concepts/`](./concepts) | Core conceptual documents (daily theories, design notes, and system reflections). |
+| [`metadata/`](./metadata) | JSON schemas and verification proofs (timestamps, hashes, IPFS CIDs). |
+| [`references/`](./references) | Global references, timeline of MaMeeFarm milestones, and related research. |
+| [`LICENSE.md`](./LICENSE.md) | Official MaMeeFarm Proof-of-Work License (MMFARM-POL-2025). |
+| [`README.md`](./README.md) | You are here — repository overview and navigation guide. |
+
+---
+
+## 🗓️ Core Milestones
+
+| Date (2025) | Event |
+|--------------|-------|
+| **Apr 29** | First TikTok post — start of Real-Work Data Recording. |
+| **Aug 23** | Mint “7 Ducks of Hope” NFT Collection (Proof-of-Work Series). |
+| **Oct 03** | Mint “Seed of Hope” NFT Collection (Genesis Layer). |
+| **Oct 12** | Official release of MaMeeFarm Proof-of-Work License (MMFARM-POL-2025). |
+| **Oct 21** | Creation of this repository — MaMeeFarm-Concepts. |
+
+See full [timeline reference](./references/timeline.txt).
+
+---
+
+## 🔍 What This Repository Represents
+
+| Layer | Description |
+|--------|-------------|
+| **Concept Layer** | The “mind” of MaMeeFarm — ideas, truth functions, and data architecture philosophy. |
+| **Proof Layer** | Verifiable evidence via hashes, timestamps, and NFT metadata links. |
+| **Legal Layer** | Licensing, copyright, and Creative Commons integration (MMFARM-POL-2025). |
+| **Cultural Layer** | The story of a small Thai farm creating global data standards through real work. |
+
+---
+
+## 🌱 How to Use This Repository
+
+1. **Read Concepts:**  
+   Explore each document in `/concepts/` to understand how Real-Work Data is structured and verified.  
+2. **Study Metadata:**  
+   Check `/metadata/verifications/hash-timestamps.json` for proofs linked to NFTs and TikTok data.  
+3. **Follow the Timeline:**  
+   See `/references/timeline.txt` to understand the evolution of the MaMeeFarm ecosystem.  
+4. **Cite or Research:**  
+   If you reference this project in academic or open research, please cite:  
+
+   > MaMeeFarm (2025). *MaMeeFarm-Concepts: Philosophy and Architecture of Real-Work Data.*  
+   > GitHub: [https://github.com/MaMeeFarm-Data/MaMeeFarm-Concepts](https://github.com/MaMeeFarm-Data/MaMeeFarm-Concepts)
+
+---
+
+## ⚖️ License & Usage
+
+This project is protected under:  
+- **MaMeeFarm Proof-of-Work License (MMFARM-POL-2025)**  
+- **Creative Commons BY-NC 4.0** — for educational and research purposes.
+
+Commercial or AI-training use requires written permission.  
+Full license text available in [LICENSE.md](./LICENSE.md).
+
+---
+
+## 🧭 Vision
+
+To create the world’s first **Real-Work Data Economy**,  
+where honest labor, verified by time and proof,  
+becomes the foundation of future digital assets and ethical AI.
+
+> “From a small duck farm in Lampang to a data model for the world.”  
+> — *MaMeeFarm Data Vision Statement, 2025*
+
+---
+
+## 🌍 Connect
+
+| Platform | Link |
+|-----------|------|
+| 🦆 TikTok | [@mameefarm](https://www.tiktok.com/@mameefarm) |
+| 💾 GitHub | [MaMeeFarm-Data](https://github.com/MaMeeFarm-Data) |
+| 🌐 Website | [MaMeeFarm.com](https://MaMeeFarm.com) |
+| 🎨 NFTs | [OpenSea Collection](https://opensea.io/collection/mameefarm) |
+
+---
+
+<div align="center">
+💚 *“Real Work. Real Data. Real Hope.”* 💚  
+<br>
+© 2025 MaMeeFarm™ | Managed by P'Toh & MaMee | Lampang, Thailand
+</div>
