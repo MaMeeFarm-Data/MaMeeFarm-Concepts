@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "project": "MaMeeFarm Proof-of-Work Data System",
+  "license": "MMFARM-POL-2025",
+  "maintainer": "P'Toh & MaMeeFarm Research Unit",
+  "records": {
+    "MMFARM-POW-2025-001": {
+      "event": "First TikTok Post — Start of Real-Work Data Recording",
+      "date": "2025-04-29T08:00:00Z",
+      "sha256": "<to-be-generated>",
+      "ipfs_cid": "<to-be-added>",
+      "verified_by": "MaMeeFarm Proof Engine v1",
+      "note": "This marks the first public timestamp of MaMeeFarm Real-Work Data."
+    },
+    "MMFARM-POW-2025-002": {
+      "event": "Mint '7 Ducks of Hope' NFT Collection on OpenSea",
+      "date": "2025-08-23T09:00:00Z",
+      "sha256": "<to-be-generated>",
+      "ipfs_cid": "<to-be-added>",
+      "verified_by": "MaMeeFarm Proof Engine v1",
+      "note": "Represents the first Proof-of-Work NFT series of MaMeeFarm."
+    },
+    "MMFARM-POW-2025-003": {
+      "event": "Mint 'Seed of Hope' NFT Collection on OpenSea",
+      "date": "2025-10-03T09:00:00Z",
+      "sha256": "<to-be-generated>",
+      "ipfs_cid": "<to-be-added>",
+      "verified_by": "MaMeeFarm Proof Engine v1",
+      "note": "Symbolic Genesis Layer of MaMeeFarm’s data story."
+    },
+    "MMFARM-POW-2025-004": {
+      "event": "Official Release of MaMeeFarm Proof-of-Work License (MMFARM-POL-2025)",
+      "date": "2025-10-12T00:00:00Z",
+      "sha256": "<to-be-generated>",
+      "ipfs_cid": "<to-be-added>",
+      "verified_by": "MaMeeFarm Legal & Data Verification Unit",
+      "note": "Establishes the official framework for licensing Real-Work Data."
+    },
+    "MMFARM-POW-2025-005": {
+      "event": "Concept Archive Initiated on GitHub (MaMeeFarm-Concepts Repository)",
+      "date": "2025-10-21T06:00:00Z",
+      "sha256": "<to-be-generated>",
+      "ipfs_cid": "<to-be-added>",
+      "verified_by": "GitHub Commit Signature",
+      "note": "The first conceptual documentation of the Proof-of-Work Data System."
+    }
+  }
+}
