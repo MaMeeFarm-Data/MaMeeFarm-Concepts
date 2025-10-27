@@ -121,6 +121,28 @@ becomes the foundation of future digital assets and ethical AI.
 | 🎨 NFTs | [OpenSea Collection](https://opensea.io/collection/mameefarm) |
 
 ---
+---
+
+## 🔒 Security & Confidentiality Statement
+
+All proprietary system designs, data-flow architectures, algorithms, and technical implementations  
+associated with the **MaMeeFarm Proof-of-Work Data System™**  
+remain strictly **confidential and undisclosed** under the **MMFARM-POL-2025 License**.
+
+This repository contains only **conceptual, philosophical, and educational layers**  
+intended to illustrate the ethical and intellectual foundations of Real-Work Data™.  
+It does **not** include or expose any operational models, internal structures, or code logic.
+
+Any reproduction, commercial adaptation, or derivative use of this content  
+without explicit written permission from **MaMeeFarm™** or **P'Toh (System Architect)**  
+is strictly prohibited under international copyright and digital asset law.
+
+> **Integrity Note:**  
+> Transparency in philosophy does not equal exposure of system design.  
+> MaMeeFarm™ shares ideas to inspire, not to be replicated.
+
+© 2025 MaMeeFarm™ | Protected under [MMFARM-POL-2025](./LICENSE.md)
+
 
 <div align="center">
 💚 *“Real Work. Real Data. Real Hope.”* 💚  
