@@ -142,10 +142,54 @@ is strictly prohibited under international copyright and digital asset law.
 > MaMeeFarm™ shares ideas to inspire, not to be replicated.
 
 © 2025 MaMeeFarm™ | Protected under [MMFARM-POL-2025](./LICENSE.md)
+---
+
+## 🧾 Changelog (Append-Only)
+
+> All updates are appended without deleting prior records to preserve verifiable history.
+
+### 2025-11-09 (v1.1)
+- Added **Concept Page** section and Proof Chain table.
+- Linked Polygon contract, TikTok, OpenSea, IPFS, and GitHub.
+- Declared ISO-ready mapping (ISO 8000, 27001, 20691, 19115, 15489/16363).
+
+**Proof Links:**  
+- Commit: <PUT-COMMIT-URL>  
+- GitHub Actions: <PUT-ACTIONS-RUN-URL>
+
+### 2025-11-08 (v1.0)
+- Initial concept & repository structure published.
+- Introduced Data Certificates for **7 Ducks of Hope** and **Seed of Hope**.
+- Enabled SHA-256 checksum generation & verification via GitHub Actions.
+
+**Proof Links:**  
+- Commit: <PUT-COMMIT-URL>  
+- GitHub Actions: <PUT-ACTIONS-RUN-URL>
+<section>
+  <hr>
+  <h2>🧾 Update Log (Append-Only)</h2>
+  <p>All updates are appended to preserve an immutable public record. Timestamps in UTC.</p>
+
+  <ul>
+    <li><strong>2025-11-09 (v1.1)</strong> — Added Concept Page, Proof Chain table, ISO-ready declaration.  
+      Proof: <a href="PUT-COMMIT-URL">Commit</a> · <a href="PUT-ACTIONS-RUN-URL">Actions Run</a>
+    </li>
+    <li><strong>2025-11-08 (v1.0)</strong> — Initial publication with 7 Ducks of Hope & Seed of Hope links, SHA-256 verification.  
+      Proof: <a href="PUT-COMMIT-URL">Commit</a> · <a href="PUT-ACTIONS-RUN-URL">Actions Run</a>
+    </li>
+  </ul>
+</section>
+Proof Links:
+- Commit: https://github.com/MaMeeFarm-Data/MaMeeFarm-Concepts/commit/<hash>
+- GitHub Actions: https://github.com/MaMeeFarm-Data/MaMeeFarm-Concepts/actions/runs/<run_id>
+![Append-Only](https://img.shields.io/badge/Policy-Append--Only-green)
+![SHA-256 Verified](https://img.shields.io/badge/Integrity-SHA--256-blue)
+![License](https://img.shields.io/badge/License-MMFARM--POL--2025%20%7C%20CC--BY--NC--4.0-orange)
+
 
 
 <div align="center">
-💚 *“Real Work. Real Data. Real Hope.”* 💚  
+💚 Real Work. Real Data. Real Hope. 💚  
 <br>
 © 2025 MaMeeFarm™ | Managed by P'Toh & MaMee | Lampang, Thailand
 </div>
