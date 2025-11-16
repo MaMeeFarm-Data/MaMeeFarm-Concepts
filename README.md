@@ -12,7 +12,7 @@ Conceptual archive of MaMeeFarm Proof-of-Work Data System™
 
 ---
 
-> “Real work is the source of truth.”  
+> "Real work is the source of truth."  
 > — *MaMeeFarm Philosophy*
 
 </div>
@@ -193,3 +193,120 @@ Proof Links:
 <br>
 © 2025 MaMeeFarm™ | Managed by P'Toh & MaMee | Lampang, Thailand
 </div>
+---
+---
+
+## 🔄 System Update 2025 — Migration Toward Full Verifiable Storage
+
+MaMeeFarm™ continues to evolve into a complete Real-Work Data Protocol.  
+This update documents our transition from emotional platforms to verifiable,
+decentralized, append-only data infrastructure.
+
+### 🌱 1. Evidence Storage Migration  
+We no longer use TikTok as an official archive for daily evidence.  
+TikTok will remain an emotional broadcast channel only — not a source of truth.
+
+All official Proof-of-Life / Proof-of-Work data is now stored using the following
+verifiable pipeline:
+
+1. **GitHub — Daily Metadata + SHA-256 Proofs**  
+   - Every day is committed as a permanent record.  
+   - Metadata files, narratives, and proof logs are stored here.  
+   - Git history acts as a cryptographic timeline.
+
+2. **IPFS + Pinata — Immutable File Storage**  
+   - Daily files and core evidence are pinned to IPFS.  
+   - Designed for long-term, decentralized preservation.
+
+3. **OpenSea (Polygon Network)**  
+   - NFT minted daily from selected files.  
+   - Smart contracts automatically publish metadata to IPFS.  
+   - Functions as a public-facing audit layer.
+
+4. **PolygonScan**  
+   - On-chain timestamps, wallet provenance, verification of creation time.  
+   - Immutable validation of each day’s evidence.
+
+5. **Blogger (MaMeeFarm.com)**  
+   - Human-readable daily logs and narratives.  
+   - Mirrors metadata and links to GitHub, IPFS, and OpenSea.
+
+---
+
+## 🧩 2. Upcoming Improvements (2025 Roadmap)
+
+To strengthen MaMeeFarm™ as a global protocol, we will add:
+
+### ✔ Manifest File (Daily Index)
+A unified file listing:
+- date  
+- IPFS CID  
+- SHA-256  
+- Git commit link  
+- OpenSea token  
+- Blogger article  
+
+This will become the master index for researchers and auditors.
+
+### ✔ SHA-256 Timeline
+A single file tracking all hashes chronologically for easy verification.
+
+### ✔ Architecture Diagram
+Formal documentation of the data pipeline:
+Farm Work → Local File → GitHub → SHA-256 → IPFS → OpenSea → PolygonScan → Blogger
+---
+
+### ✔ Protocol Versioning
+Introducing:
+- **MMFARM-POL-2025 v1.0**  
+(With future updates v1.1, v1.2 etc.)
+
+### ✔ Governance Q&A Archive
+Daily questions about data rights, national innovation policy,
+and Real-Work Data economy will be documented as an official research set.
+
+### ✔ Data Dictionary
+A glossary of MaMeeFarm™-specific terminology:
+- Proof-of-Life Unit  
+- Seed of Hope  
+- DGCP™  
+- Real-Work Data  
+- Evidence Chain  
+- Governance Layer  
+- Traceability Block  
+and more.
+
+---
+
+## 🌍 3. Declaration
+
+MaMeeFarm™ is no longer a "project."  
+It is evolving into a **global-ready, verifiable,
+cross-domain Real-Work Data Protocol** — built from daily life,
+secured by cryptography, and preserved on decentralized networks.
+
+All new components will follow  
+**MMFARM-POL-2025 License + CC BY-NC 4.0 Overlay**.
+
+---
+
+---
+
+## 📘 Extended Milestones (2025 Update)
+
+A full, extended milestone history is now available in  
+**`MILESTONES-2025.md`**.
+
+This includes new updates such as:
+
+- Migration from TikTok to full IPFS-based storage  
+- Establishment of the Evidence Pipeline v1.0  
+- Launch of DGCP™ governance  
+- Expansion of Seed of Hope daily series  
+- Manifest and SHA-256 Timeline development  
+- Upcoming Protocol v1.1 and country pilot roadmap  
+
+These milestones document MaMeeFarm™’s evolution into a verifiable,
+cross-domain Real-Work Data Protocol.
+
+---
