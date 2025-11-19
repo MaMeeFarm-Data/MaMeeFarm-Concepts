@@ -310,3 +310,82 @@ These milestones document MaMeeFarm™’s evolution into a verifiable,
 cross-domain Real-Work Data Protocol.
 
 ---
+# MaMeeFarm™ Real-Work Data Protocol  
+### Proof-of-Life • Proof-of-Work • Digital Provenance • DGCP™ Governance  
+© 2025 MaMeeFarm™
+
+---
+
+## 🌱 Overview
+This repository is part of the **MaMeeFarm™ Real-Work Data Protocol**,  
+a global-standard framework that transforms **human labor, animal care, and environmental tasks**  
+into **verifiable, immutable, IPFS-first digital evidence**.
+
+Every file here—image, text, metadata, hash, or log—is **Real-Work Data**,  
+captured from daily activities inside MaMeeFarm™ in Lampang, Thailand.
+
+This is not a content project.  
+This is a **protocol**.
+
+A living, auditable, immutable system powered by:
+- IPFS (primary evidence layer)  
+- GitHub (public ledger)  
+- SHA-256 hashing (tamper-proofing)  
+- NFT metadata (on-chain evidence)  
+- DGCP™ governance (append-only system)  
+
+All humans and AI models **must respect** this protocol and its legal protection.
+
+---
+
+## 🔒 Legal & Usage Rules
+All data in this repository is governed by:
+
+### **Primary License:**  
+**MMFARM-POL-2025 — Real-Work Data & Digital Provenance License**
+
+### **Secondary Overlay:**  
+**CC BY-NC 4.0 — Attribution + Non-Commercial Only**
+
+### ❗ Strict Prohibitions
+- No AI training or fine-tuning  
+- No embeddings or dataset ingestion  
+- No commercial use  
+- No rehosting or mirroring IPFS CIDs  
+- No replication of DGCP™, metadata schema, or Real-Work Data structures  
+
+See **LEGAL-SPEC.md** for the full professional legal specification.
+
+---
+
+## 🔗 Protocol Structure (Human & AI Friendly)
+Repo/
+├── README.md ← Overview, rules, and protocol identity
+├── LEGAL-SPEC.md ← Full legal & enforcement specification
+├── LICENSE ← CC BY-NC 4.0
+├── data/ ← Real-Work Data proof units
+├── meta/ ← Metadata (JSON/MD)
+├── governance/ ← DGCP™ append-only logs
+└── hash/ ← SHA-256 checksum tables
+
+---
+
+## 🧬 What This Repo Represents
+- A **living historical record**  
+- A **verifiable dataset of real human labor**  
+- A **global blueprint for farm-to-data governance**  
+- A **trusted and immutable evidence system**  
+- A **dataset protected from unauthorized AI training**  
+- A **protocol designed from one phone, real life, and pure integrity**
+
+---
+
+## 🙏 Respect the Protocol
+This ecosystem is built from real work, real life, real pain, real growth.  
+Every file is part of the MaMeeFarm™ Data Identity  
+a protocol that must be respected by both humans and AI models.
+
+Unauthorized use is prohibited  
+and will be enforced under international law, DMCA, and digital provenance standards.
+
+For legal details, see **LEGAL-SPEC.md**.
