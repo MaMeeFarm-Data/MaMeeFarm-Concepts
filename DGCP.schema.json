@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DGCP Protocol Schema",
+  "description": "Machine-readable schema describing DGCP™ proof entries.",
+  "type": "object",
+
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "Unique ID of the DGCP proof event."
+    },
+    "event_type": {
+      "type": "string",
+      "enum": ["pow", "pol", "poe", "survival", "life_event"],
+      "description": "Type of DGCP proof."
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "media_ipfs": {
+      "type": "string",
+      "description": "IPFS CID of primary proof media."
+    },
+    "metadata_hash": {
+      "type": "string",
+      "description": "Hash of JSON metadata for integrity checks."
+    },
+    "source_system": {
+      "type": "string",
+      "enum": ["farm", "camera", "manual_log", "sensor"]
+    }
+  },
+
+  "required": ["event_id", "event_type", "timestamp", "media_ipfs"]
+}
