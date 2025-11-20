@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MaMeeFarm AML PoW/RWA Schema",
+  "description": "Machine-readable specification for AML-compliant Proof-of-Work Real-World Assets.",
+  "type": "object",
+
+  "properties": {
+    "proof_id": {
+      "type": "string",
+      "description": "Unique ID of the Proof-of-Work event."
+    },
+
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Exact creation time of the PoW event."
+    },
+
+    "pow_type": {
+      "type": "string",
+      "enum": ["egg_collection", "feeding", "harvesting", "planting", "animal_care", "environment_log"],
+      "description": "Type of physical activity that generated the value."
+    },
+
+    "asset_linked": {
+      "type": "string",
+      "description": "Farm asset or output associated with this Proof event."
+    },
+
+    "ipfs_cid": {
+      "type": "string",
+      "description": "IPFS CID pointing to evidence files (image, video, log)."
+    },
+
+    "ml_verifiable_hash": {
+      "type": "string",
+      "description": "Hash that enables AI and machine verification."
+    },
+
+    "aml_risk_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high"],
+      "description": "AML risk classification."
+    }
+  },
+
+  "required": [
+    "proof_id",
+    "timestamp",
+    "pow_type",
+    "asset_linked",
+    "ipfs_cid",
+    "aml_risk_level"
+  ]
+}
