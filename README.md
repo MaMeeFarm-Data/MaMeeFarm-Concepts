@@ -389,3 +389,80 @@ Unauthorized use is prohibited
 and will be enforced under international law, DMCA, and digital provenance standards.
 
 For legal details, see **LEGAL-SPEC.md**.
+
+## 🕒 Daily Open Timestamp Protocol  
+### Establishing the Continuous Real-Work Data Ledger for MaMeeFarm™
+
+Since November 2025, MaMeeFarm™ has formally activated the **Daily Open Timestamp Cycle**, ensuring that every real-world activity, observation, and proof is cryptographically anchored and time-verified before entering the DGCP™ architecture.
+
+This protocol is now a foundational component that supports all Concept files in this repository.
+
+---
+
+## 🌱 What This Means
+
+1. **Every Day = One Truth Block**  
+   A full cycle of proofs (images, notes, temperature logs, environmental events, and work actions) is timestamped at origin and sealed as a daily truth block.
+
+2. **Every Proof = A Vector in the Truth Architecture**  
+   Each proof contributes to:
+   - Truth Vector  
+   - Reality Spine  
+   - Global Mesh  
+   - Multi-Nodal Verification  
+   - Cross-Boundary Alignment  
+
+3. **RWD → DGCP → Concepts**  
+   Daily Open Timestamp data flows upward into the conceptual architecture described in this repo.  
+   *These concepts are not theoretical — they are built on real, timestamped human work.*
+
+---
+
+## 🔒 Why This Matters
+
+- Ensures non-repudiation of daily records  
+- Strengthens the mathematical trust layer of DGCP™  
+- Provides continuous, immutable reality streams for future audits  
+- Enables global-scale truth verification (Cycle 4)  
+- Allows Concepts to reflect *real operational data*, not assumptions
+
+---
+
+## 📡 Integration With Concepts Series
+
+The following components directly depend on Daily Open Timestamp data:
+
+- **Truth-Propagation Spine**  
+- **Real-World Truth Vector**  
+- **Global Truth Mesh**  
+- **Multi-Nodal Reality Network**  
+- **Cross-Boundary Verification Layer**  
+- All Global Truth Infrastructure concepts (Dec 1–10)
+
+This README update establishes the formal relationship between the **Operational Layer (proofs)**
+and the **Architectural Layer (concepts)** that this repository documents.
+
+The Concepts Series from 2025-10 onward is now officially aligned with:
+
+**DGCP-OPS → DGCP-ARCH → DGCP-GOV → DGCP-CIV**
+
+---
+
+## 🧩 Summary
+
+MaMeeFarm™ now operates with:
+
+- **Daily Timestamping**
+- **Continuous Proof Capture**
+- **Append-Only Reality Ledger**
+- **Cross-Layer Integration between Proofs and Concepts**
+
+This README update marks the transition from theoretical design  
+to a *fully operational, globally scalable Real-Work Data System.*
+
+---
+
+## License  
+**MMFARM-POL-2025**  
+All rights reserved under MaMeeFarm™ Real-Work Data System.
+
