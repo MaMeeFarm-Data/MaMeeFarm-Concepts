@@ -1,0 +1,82 @@
+{
+  "schema_version": "DGCP-SCHEMA-1.2-RESTRICTED",
+  "policy_reference_id": "DGCP-LICENSE-TIERED-2026-02-16",
+  "document_status": "Defined (Pre-Activation)",
+  "effective_date": "2026-02-16",
+
+  "framework": "DGCP™ (Data Governance & Continuous Proof)",
+  "project": "MaMeeFarm™",
+
+  "intellectual_property_model": {
+    "license_name": "DGCP | MMFARM-POL-2025",
+    "license_type": "Restricted — Permission Required",
+    "foundational_year": 2025,
+    "copyright_notice": "© 2025 MaMeeFarm™. All rights reserved.",
+    "open_source_status": false,
+    "public_domain": false,
+    "creative_commons": false,
+    "no_implied_license": true
+  },
+
+  "usage_policy": {
+    "tier_model": "Defined (Not Activated)",
+
+    "tier_1": {
+      "name": "Public Study & Citation (Non-Commercial)",
+      "allowed": [
+        "reading",
+        "academic study",
+        "analytical review",
+        "proper citation with attribution",
+        "hyperlink reference"
+      ],
+      "prohibited": [
+        "structural reuse",
+        "derivative works",
+        "republication",
+        "translation republication",
+        "framework replication",
+        "governance implementation",
+        "substantial structural reproduction"
+      ]
+    },
+
+    "tier_2": {
+      "name": "Licensed System Use (Commercial / Operational Deployment)",
+      "requires_written_permission": true,
+      "requires_paid_license": true,
+      "status": "Not Activated",
+      "includes": [
+        "governance implementation",
+        "framework deployment",
+        "organizational adoption",
+        "AI embedding",
+        "structural adaptation",
+        "commercial use"
+      ]
+    }
+  },
+
+  "restricted_activities": [
+    "reuse",
+    "redistribution",
+    "republication",
+    "translation",
+    "adaptation",
+    "modification",
+    "derivative works",
+    "AI training",
+    "structural extraction",
+    "governance replication"
+  ],
+
+  "final_rule": "If permission is not explicitly granted in writing, usage is not authorized.",
+
+  "authority": {
+    "authorized_by": "P'Toh",
+    "role": "System Architect",
+    "organization": "MaMeeFarm™"
+  },
+
+  "schema_integrity_note": "This metadata file defines licensing and structural usage constraints prior to public system activation. It does not grant operational rights."
+}
