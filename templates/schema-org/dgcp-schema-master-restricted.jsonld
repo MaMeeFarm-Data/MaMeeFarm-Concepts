@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+
+  "version": "1.0",
+  "dgcp_schema_version": "DGCP-SCHEMA-R-2025-01",
+
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "Concept ID",
+    "value": "MMFARM-YYYY-NNN"
+  },
+
+  "headline": "TITLE — Subtitle (if any)",
+
+  "description": "Proof-governed documentation under restricted intellectual property license (DGCP | MMFARM-POL-2025).",
+
+  "inLanguage": "en",
+  "dateCreated": "YYYY-MM-DD",
+
+  "author": {
+    "@type": "Person",
+    "name": "P'Toh",
+    "jobTitle": "System Architect",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "MaMeeFarm™ / DGCP™"
+    }
+  },
+
+  "creator": {
+    "@type": "Organization",
+    "name": "MaMeeFarm™"
+  },
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "MaMeeFarm™"
+  },
+
+  "license": "All Rights Reserved — Permission Required (DGCP | MMFARM-POL-2025)",
+
+  "copyrightNotice": "© 2025 MaMeeFarm™. All rights reserved.",
+
+  "usageInfo": "No reuse, redistribution, republication, translation, adaptation, modification, derivative works, AI training, structural extraction, or governance replication are permitted without prior written permission from MaMeeFarm™. Viewing and linking are permitted. Content reuse is prohibited.",
+
+  "keywords": [
+    "DGCP",
+    "MaMeeFarm",
+    "Proof-Governed Systems",
+    "Restricted Intellectual Property"
+  ],
+
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "MaMeeFarm™ / DGCP™ Official Publications"
+  },
+
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "DGCP™ (Data Governance & Continuous Proof)"
+    }
+  ]
+}
