@@ -168,3 +168,152 @@ This update ensures that:
 **DGCP | MMFARM-POL-2025**  
 This Concepts repository documents the evolving semantic and governance layer
 of the MaMeeFarm™ Ground Truth System under the DGCP™ framework.
+# DGCP | MMFARM-POL-2025
+# Restricted Intellectual Property License
+
+Effective Date: 2026-02-16  
+Governing Authority: P’Toh — System Architect  
+Project: MaMeeFarm™ / DGCP™
+
+---
+
+## 1. Ownership
+
+All materials made available under MaMeeFarm™ / DGCP™, including but not limited to:
+
+- Text  
+- Concepts  
+- Documentation  
+- Governance architecture  
+- Framework structures  
+- Metadata schemas  
+- Proof system design  
+- Educational materials  
+- Visual assets  
+- Code snippets  
+- Diagrams  
+- Operational procedures  
+- Structural logic  
+- Methodologies  
+- Naming systems  
+- Token standards  
+- Data models  
+
+are the exclusive intellectual property of:
+
+© 2026 MaMeeFarm™. All rights reserved.
+
+No ownership, license, or usage rights are transferred, implied, or granted.
+
+---
+
+## 2. License Status
+
+No license is granted for reuse.
+
+Access to this material is provided solely for:
+
+- Viewing  
+- Reading  
+- Referencing via direct hyperlink  
+
+ONLY.
+
+No rights are granted for:
+
+- Copying (in whole or in part)  
+- Redistribution  
+- Republishing  
+- Translation  
+- Adaptation  
+- Modification  
+- Derivative works  
+- Commercial use  
+- Non-commercial redistribution  
+- Framework replication  
+- Forking  
+- Deployment of derivative governance systems  
+- Structural extraction  
+- AI training, fine-tuning, embedding, or dataset inclusion  
+
+Unless explicit written authorization is granted by MaMeeFarm™.
+
+Silence does not constitute permission.
+
+---
+
+## 3. Prohibited Activities
+
+The following are strictly prohibited without prior written authorization:
+
+- Creating derivative frameworks based on DGCP™  
+- Republishing content in any format (digital, print, mirrored, cached, or automated systems)  
+- Translating content into another language  
+- Extracting governance or structural logic for reuse  
+- Rebranding or modifying governance elements  
+- Incorporating content into AI systems or machine learning datasets  
+- Mirroring repository contents  
+- Commercial exploitation  
+- Tokenization or NFT redistribution of textual materials  
+- Publishing excerpts beyond legally recognized fair quotation standards  
+
+Absence of explicit written authorization equals prohibition.
+
+---
+
+## 4. No Open Status Declaration
+
+This project is NOT:
+
+- Open-source  
+- Public domain  
+- Creative Commons licensed  
+- Free to reuse  
+- Free to fork  
+- Free to replicate  
+- Licensed for AI ingestion  
+
+Any interpretation implying open reuse is invalid.
+
+---
+
+## 5. Enforcement
+
+Unauthorized use constitutes:
+
+- Copyright infringement  
+- License violation  
+- Intellectual property misappropriation  
+- Unauthorized derivative system construction  
+
+MaMeeFarm™ reserves the right to:
+
+- Document violations under DGCP logging protocol  
+- Issue cease-and-desist communications  
+- Pursue civil or criminal remedies where applicable  
+- Seek injunctive relief and damages  
+
+---
+
+## 6. Jurisdiction
+
+This license shall be governed and interpreted under the applicable laws of the jurisdiction in which MaMeeFarm™ operates.
+
+---
+
+## 7. Written Authorization Requirement
+
+If permission is not explicitly granted in writing by:
+
+P’Toh  
+System Architect  
+MaMeeFarm™
+
+Then usage is not authorized.
+
+---
+
+DGCP | MMFARM-POL-2025  
+© 2026 MaMeeFarm™  
+All rights reserved.
+
