@@ -523,4 +523,75 @@ This work is licensed under the DGCP (Data Governance & Continuous Proof) framew
 All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.  
 Redistribution, citation, or derivative use must preserve attribution and license reference.
 
+# MaMeeFarm™ / DGCP™
 
+MaMeeFarm™ / DGCP™ is a proprietary proof-governed governance architecture developed and maintained under the authority of P’Toh, System Architect.
+
+This repository documents components of the DGCP™ (Data Governance & Continuous Proof) framework.
+
+---
+
+## ⚠ License Status — Restricted Model
+
+License (Restricted) — DGCP | MMFARM-POL-2025  
+© 2026 MaMeeFarm™. All rights reserved.
+
+No reuse, redistribution, republication, translation, adaptation, modification, or derivative works are permitted without prior written permission from MaMeeFarm™.
+
+Viewing and linking are permitted.  
+Content reuse in any form is prohibited unless explicitly authorized in writing.
+
+---
+
+## 🔒 Intellectual Position
+
+MaMeeFarm™ / DGCP™ is:
+
+- A proprietary governance architecture  
+- A restricted intellectual framework  
+- A proof-based operational system  
+- Not open-source  
+- Not public domain  
+- Not freely reusable  
+
+Any replication, fork, adaptation, or derivative implementation requires explicit written authorization.
+
+---
+
+## 📜 Usage Policy
+
+Permitted:
+- Reading
+- Viewing
+- Linking (with attribution)
+
+Not Permitted Without Written Permission:
+- Copying
+- Republishing
+- Translating
+- Derivative works
+- Redistribution
+- Commercial reuse
+- Modified deployment
+- Framework adaptation
+
+If permission is not explicitly granted in writing, usage is not authorized.
+
+---
+
+## 🛡 Enforcement Notice
+
+Unauthorized reuse constitutes:
+- Copyright infringement
+- License violation
+- Unauthorized derivative activity
+
+Documentation of violations may be recorded under DGCP logging protocol.
+
+---
+
+Authorized by:  
+P’Toh  
+System Architect  
+MaMeeFarm™  
+DGCP | MMFARM-POL-2025
